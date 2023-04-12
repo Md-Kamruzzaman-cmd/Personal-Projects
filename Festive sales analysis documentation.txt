@@ -1,0 +1,6 @@
+1. performed data cleaning and manipulation
+2. performed exploratory data analysis using pandas,matplotlib,seaborn
+3. improved customer experience by idemtifying potential customer across
+different states, occupation, gender and age group
+4. improved sales by identifying most selling product categpries and products
+which can help to plan inventory and hence meet the demands.
