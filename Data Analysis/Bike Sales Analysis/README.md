@@ -1,4 +1,4 @@
-# Bike-Sales-Analysis
+# Bike Sales Analysis
 Excel project to visualize customer behavior to increase use of bikes.
 
 Data Cleaning :
