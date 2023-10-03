@@ -1,4 +1,4 @@
-# Electric-Store-Sales-Analysis
+# Electric Store Sales Analysis
 Python project to know highest selling month, city, products, best time for advertisement etc.
 
 1. Converted 12 csv files into 1.
