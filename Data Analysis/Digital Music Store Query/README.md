@@ -1,4 +1,4 @@
-# Digital-Music-Store-Query
+# Digital Music Store Query
 SQL project to answer questions in a digital music store to know customer behaviour
 
 Created database named digital_music_store_database and restore file under it.
