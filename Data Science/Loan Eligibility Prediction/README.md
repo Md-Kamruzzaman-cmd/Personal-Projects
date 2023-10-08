@@ -1,4 +1,5 @@
-### Loan Eligibility Prediction
+## Loan Eligibility Prediction
+Python Project to predict loan eligibility
 1. Replaced null values with mode() value for categorical values and mean() value for numerical values.
 2. Compare Loan Status column with other columns to see which columns should we use for prediction.
 3. Added applicant income and coapplicant income and put new values in a new column TotalIncome.
