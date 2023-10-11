@@ -1,9 +1,9 @@
 # Store Data Analysis
-Excel project to know how to grow sales.
+## Excel project to know how to grow sales.
 
-Problem : How to grow sales.
+### Problem : How to grow sales.
 
-Questions solved :
+### Questions solved :
 
 1. compare sales and orders
 2. which month got the highest sales and orders
@@ -14,17 +14,17 @@ Questions solved :
 7. which company is contributing to maximum sales
 8. highest selling category etc
 
-Data Cleaning : 
+### Data Cleaning : 
 
 1. In gender column the values inconsistent. Change M to Men and W to Women to make it consistent.
 2. Quantity column is in consistent as well. Made it consistent.
 
-Data Processing :
+### Data Processing :
 
 1. Created a new column named Age Group and categorize age in 3 groups. Did this by using Age column inside IF statement.
 2. Added a new column named Month and extract month names in text from date column.
 
-Data Analysis :
+### Data Analysis :
 
 1. Created a pivot table to make comparison between sales and orders. Added month column in rows, order ID and
 Amount in values. Added a combo chart to visualize the  comparison between sales and order on monthly basis.
@@ -44,14 +44,14 @@ in values. Visualized it with a pie chart.
 Finally, added three slicers, Month, Company and Category and make connections among all the pivot tables
 so we can interact with them and extract data that we need.
 
-Sample Insights :
+### Sample Insights :
 
 1. Womena are more likely to buy compared to men (~65%).
 2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%).
 3. Middle age group (30-49) is max contributing (~50%).
 4. Amazon, Flipkart and Myntra companies are max contributing (~80%).
 
-Final Conclusion to improve Sales :
+### Final Conclusion to improve Sales :
 
 Target women customers of age group (30-49) living in Maharashtra, Karnataka and Uttar Pradesh by showing
 ads/offers/coupons available on Amazon, Flipkart and Myntra.
