@@ -1,18 +1,18 @@
 # Bike Sales Analysis
-Excel project to visualize customer behavior to increase use of bikes.
+## Excel project to visualize customer behavior to increase use of bikes.
 
-Data Cleaning :
+### Data Cleaning :
 
 1. Removed duplicates
 2. Replaced M with Married and S with Single in marital status column and replaced M with Male and F with Female in gernder column.
 3. Changed income column category to currency
 
-Data Processing :
+### Data Processing :
 
 1. Added a new column named age group and consider students more than 50 years old as old, less than 30 years old as young age and middle age
 the others. determined this by using Age column with IF statement.
 
-Data Analysis : 
+### Data Analysis : 
 
 1. Created pivot table and put gernder column in row and income in value and change it to avegare. Then added Purchased Bike column in
 columns field. Created a bar chart so we can see purchaed bike based on average income. It is clear that poeple who make more money
