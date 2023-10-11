@@ -1,5 +1,5 @@
 # Electric Store Sales Analysis (Python)
-## Libraries (pandas, matplotlib, os, counter, combinations)
+## Libraries (pandas, matplotlib, counter, combinations)
 
 ### Question we have answered:
 
