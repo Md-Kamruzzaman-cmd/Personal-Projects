@@ -9,8 +9,9 @@
 
 ### Data analysis
 
-1. Performed exploratory data analysis using pandas,matplotlib,seaborn.
-2. Improved customer experience by identifying potential customer across different states, occupation, gender and age group.
+1. Analyzed Gender column, first by using countplot to count male and female, then compared them with Amount and drew a barplot to show who buys more.
+2. Analyzed other columns similarly.
+3. Improved customer experience by identifying potential customer across different states, occupation, gender and age group.
 
 ### Final Output
 
