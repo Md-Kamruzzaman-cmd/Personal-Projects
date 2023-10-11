@@ -3,7 +3,7 @@
 
 Created database named digital_music_store_database and restore file under it.
 
-Questions we have solved :
+Questions we have answered :
 
 1. who is the senior most employee based on job title?
 2. which countries have the most invoices?
