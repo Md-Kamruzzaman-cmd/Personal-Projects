@@ -11,13 +11,12 @@
 
 ### Data Cleaning and Processing
 
-1. Converted 12 csv files into 1.
-2. Removed nan values.
-3. Extracted month from order date.
-4. Corrected datatypes.
-5. Added new column named sales by multipying quantity and price.
-6. Extracted city from purchase address.
-7. Extracted hour from order time.
+1. Removed nan values.
+2. Extracted month from order date.
+3. Corrected datatypes.
+4. Added new column named sales by multipying quantity and price.
+5. Extracted city from purchase address.
+6. Extracted hour from order time.
 
 ### Visualizing answering questions
 
